@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Siguiente
+  - Enemigo
+  - Ground
+  - Jefe
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Ladders
+  - Ocean
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Fondo
+    uniqueID: 461131257
+    locked: 0
+  - name: Ground
+    uniqueID: 1948102611
+    locked: 0
+  - name: NPC
+    uniqueID: 4288981651
+    locked: 0
+  - name: Player
+    uniqueID: 1164454647
+    locked: 0
+  - name: Enemigo
+    uniqueID: 1675815751
+    locked: 0
+  - name: Bala
+    uniqueID: 3549968099
+    locked: 0
